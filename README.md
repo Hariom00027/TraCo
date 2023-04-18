@@ -17,7 +17,7 @@ Installation
 
 bash
 # Copy code
-git clone https://github.com/<your-username>/covid-tracker.git
+git clone https://github.com/Hariom00027/TraCo.git
 # Open Android Studio and select "Open an existing project".
 
 # Navigate to the cloned repository and select the "covid-tracker" folder.
