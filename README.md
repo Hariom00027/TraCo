@@ -20,7 +20,7 @@ bash
 git clone https://github.com/Hariom00027/TraCo.git
 # Open Android Studio and select "Open an existing project".
 
-# Navigate to the cloned repository and select the "covid-tracker" folder.
+# Navigate to the cloned repository and select the "traco" folder.
 
 # Wait for the project to build and sync.
 
